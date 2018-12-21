@@ -1,6 +1,5 @@
 package postgresql
 
-// testing
 import (
 	"os"
 	"testing"
